@@ -1,7 +1,7 @@
 # **********  Project  **********
 # Project-specific exclusions
-.streamlit/firestone-key.json
-.streamlit/secrets.toml
+firestore-key.json
+secrets.toml
 
 
 
